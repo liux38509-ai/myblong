@@ -1,4 +1,4 @@
-baseURL                = "/"
+baseURL                = "https://holin.cc.cd/"
 locale                 = "zh"
 title                  = "我的博客"
 # Theme i18n support

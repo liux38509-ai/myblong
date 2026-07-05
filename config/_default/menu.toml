@@ -1,15 +1,15 @@
 [[social]]
-    identifier = "github"
-    name       = "GitHub"
+    identifier = "YouTube"
+    name       = "YouTube"
     url        = "https://github.com/CaiJimmy/hugo-theme-stack"
 
     [social.params]
-        icon = "brand-github"
+        icon = "brand-youTube"
 
 [[social]]
-    identifier = "twitter"
-    name       = "Twitter"
-    url        = "https://twitter.com"
+    identifier = "bilibili"
+    name       = "bilibili"
+    url        = "https://space.bilibili.com/162179329?spm_id_from"
 
     [social.params]
-        icon = "brand-twitter"
+        icon = "brand-bilibili"
